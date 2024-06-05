@@ -1,0 +1,2 @@
+### 5. What is a VLAN?
+A VLAN (Virtual Local Area Network) is a logical subgroup within a physical network that can group together devices from different physical LAN segments. VLANs help improve network performance and security by segmenting traffic, reducing broadcast domains, and restricting access to network resources.
